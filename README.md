@@ -4,7 +4,7 @@ This weeks project done by Joanna Lodell, Svante Ljunggren, Jens Bergqvist, Ida 
 # Weather App
 
 This weeks project was to make a weather app fetching api:s. 
-We used Stockholm as the default city. 
+We used Berlin as the default city. 
 
 
 ## The problem
